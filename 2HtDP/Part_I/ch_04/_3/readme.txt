@@ -1,0 +1,1 @@
+enumeration - list of possible states of data
